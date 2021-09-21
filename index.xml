@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Simona Nisticò</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 09:35:08 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2019 09:35:08 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7d0b0f6b82703fe7e11d04e2c5e92e9b_26914_512x512_fill_lanczos_center_3.png</url>
       <title>Simona Nisticò</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Stream analysis for detecting stuttering episodes</title>
       <link>https://example.com/publication/stream-analysis-for-detecting-stuttering-episodes/</link>
-      <pubDate>Tue, 06 Jul 2021 09:35:08 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 09:35:08 +0000</pubDate>
       <guid>https://example.com/publication/stream-analysis-for-detecting-stuttering-episodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning and detecting stuttering disorders</title>
+      <link>https://example.com/publication/example/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/example/</guid>
       <description></description>
     </item>
     
@@ -147,14 +155,6 @@ Three
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Learning and detecting stuttering disorders</title>
-      <link>https://example.com/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
-      <description></description>
     </item>
     
     <item>
