@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcoming talks | Simona Nisticò</title>
+    <link>https://example.com/category/upcoming-talks/</link>
+      <atom:link href="https://example.com/category/upcoming-talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Upcoming talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7d0b0f6b82703fe7e11d04e2c5e92e9b_26914_512x512_fill_lanczos_center_3.png</url>
+      <title>Upcoming talks</title>
+      <link>https://example.com/category/upcoming-talks/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Simona Nisticò</title>
+    <title>Deep learning | Simona Nisticò</title>
     <link>https://example.com/category/deep-learning/</link>
       <atom:link href="https://example.com/category/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
+    <description>Deep learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7d0b0f6b82703fe7e11d04e2c5e92e9b_26914_512x512_fill_lanczos_center_3.png</url>
-      <title>Deep Learning</title>
+      <title>Deep learning</title>
       <link>https://example.com/category/deep-learning/</link>
     </image>
     
     <item>
+      <title>Finding Local Explanations Through Masking Models</title>
+      <link>https://example.com/publication/finding-local-explanations-throught-masking-models/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/finding-local-explanations-throught-masking-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning and detecting stuttering disorders</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://example.com/publication/learning-and-detecting-stuttering-disorders/</link>
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://example.com/publication/learning-and-detecting-stuttering-disorders/</guid>
       <description></description>
     </item>
     

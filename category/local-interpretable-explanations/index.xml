@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local Interpretable Explanations | Simona Nisticò</title>
+    <link>https://example.com/category/local-interpretable-explanations/</link>
+      <atom:link href="https://example.com/category/local-interpretable-explanations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Local Interpretable Explanations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7d0b0f6b82703fe7e11d04e2c5e92e9b_26914_512x512_fill_lanczos_center_3.png</url>
+      <title>Local Interpretable Explanations</title>
+      <link>https://example.com/category/local-interpretable-explanations/</link>
+    </image>
+    
+    <item>
+      <title>Local Interpretable Classifier Explanations with Self-generated Semantic Features</title>
+      <link>https://example.com/publication/local_interpretable_classifier_explanations_with_self-generated_semantic_features/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/local_interpretable_classifier_explanations_with_self-generated_semantic_features/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
