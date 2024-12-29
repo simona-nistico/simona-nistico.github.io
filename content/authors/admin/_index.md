@@ -47,14 +47,10 @@ interests:
 education:
   - area: Ph.D. in Information and Communication Technologies
     institution: Università della Calabria
-    date_start: 2024-02
-    date_end: 2020-11
     summary: |
       Thesis on **Deep Learning Techniques for Explaining Predictors and Abnormal Behaviours**
   - area: MSc in Computer Engineering
     institution: Università della Calabria
-    date_start: 2018-09
-    date_end: 2020-07
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
