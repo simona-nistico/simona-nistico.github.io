@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/CV_Nistico.pdf
+        text: Download a short version of CV
+        url: uploads/CV_Nistico_short.pdf
     design:
       css_class: dark
       background:
