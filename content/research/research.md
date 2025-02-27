@@ -1,10 +1,13 @@
 ---
 title: Research
-date: 2024-02-27
+summary: Research activities
 type: landing
 
-design:
-  spacing: '5rem'
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
 sections:
   - block: markdown
