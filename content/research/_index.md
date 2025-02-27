@@ -17,7 +17,8 @@ sections:
       filters:
         folders:
           - research
-    text: Her research interests are in Artificial Intelligence and span different ares such as 
+      text:
+      Her research interests are in Artificial Intelligence and span different ares such as 
     
     * Explainable Artificial Intelligence (xAI),
     * Anomaly Detection (AD),
