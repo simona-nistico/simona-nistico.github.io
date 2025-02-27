@@ -17,14 +17,15 @@ sections:
       filters:
         folders:
           - research
-      text:
-      Her research interests are in Artificial Intelligence and span different ares such as 
+---
+
+Her research interests are in Artificial Intelligence and span different ares such as 
     
-    * Explainable Artificial Intelligence (xAI),
-    * Anomaly Detection (AD),
-    * Audio Super-resolution,
-    * Federated Learning,
-    * Neuro-symbolic AI.
+* Explainable Artificial Intelligence (xAI),
+* Anomaly Detection (AD),
+* Audio Super-resolution,
+* Federated Learning,
+* Neuro-symbolic AI.
 
 # Explainable AI
 Concerning xAI, her work explores various perspectives to address challenges relating to the opaqueness of sub-symbolic AI systems.
@@ -56,4 +57,3 @@ Her research interests also extended to the area of Federated Learning, for whic
 # Neuro-symbolic AI
 Recently, she has started to delve into Neuro-symbolic approaches for detecting and repairing anomalous evolutions of intelligent agents in planning
 systems.
----
