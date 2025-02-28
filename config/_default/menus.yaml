@@ -29,6 +29,6 @@ main:
     url: teaching/
     weight: 50
   - name: CV
-    url: /files/CV_Nistico.pdf
+    url: /uploads/CV_Nistico.pdf
     weight: 60
 

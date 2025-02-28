@@ -1,6 +1,6 @@
 ---
 widget: "markdown"
-headless: false
+headless: true
 weight: 10
 title: "Professional services"
 active: true
