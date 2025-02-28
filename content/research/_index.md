@@ -6,7 +6,7 @@ title: "Research"
 active: true
 ---
 
-<div style="text-align: left; max-width: 900px!important">
+<div class="container" style="text-align: left">
     <p>Her research interests are in Artificial Intelligence and span different ares such as:</p>
     <ul>
         <li><a href="#xai"><strong>Explainable Artificial Intelligence (xAI),</strong></a></li>
