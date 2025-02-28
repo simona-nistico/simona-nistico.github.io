@@ -6,7 +6,7 @@ title: "Research"
 active: true
 ---
 
-<div class="container" style="text-align: left">
+<div style="text-align: left">
 <h2>Organization of scientific events</h2>
 <ul>
 <li>CAIMA2025, 1st Workshop on Cooperative AI Models and Applications, co-located with ADBIS 2025 Conference.</li>
