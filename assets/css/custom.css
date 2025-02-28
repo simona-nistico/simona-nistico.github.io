@@ -2,6 +2,10 @@
   max-width: 80%; /* Adjust percentage as needed */
 }
 
+.prose{
+  max-width: 80%;
+}
+
 article {
   max-width: 100%!important;
   padding: 20px;
