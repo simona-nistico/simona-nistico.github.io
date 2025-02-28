@@ -12,7 +12,7 @@ design:
   columns: '1'
 ---
 
-<div style="text-align: left; max-width: 90%">
+<div style="text-align: left; max-width: 900px!important">
     <p>Her research interests are in Artificial Intelligence and span different ares such as:</p>
     <ul>
         <li><strong>Explainable Artificial Intelligence (xAI),</strong></li>
