@@ -1,14 +1,13 @@
 ---
-title: Research
-type: landing
+widget: "markdown"
+headless: false
+weight: 10
+title: "Research"
+active: true
+---
 
-sections:
-  - block: markdown
-    content:
-      title: Research
-      subtitle: 
-      text: <div style="text-align: left; max-width: 900px!important">
-<p>Her research interests are in Artificial Intelligence and span different ares such as:</p>
+<div style="text-align: left; max-width: 900px!important">
+    <p>Her research interests are in Artificial Intelligence and span different ares such as:</p>
     <ul>
         <li><strong>Explainable Artificial Intelligence (xAI),</strong></li>
         <li><strong>Anomaly Detection (AD),</strong></li>
@@ -47,6 +46,3 @@ Within this field, her efforts are currently committed to facing a more general 
     Recently, she has started to delve into Neuro-symbolic approaches for detecting and repairing anomalous evolutions of intelligent agents in planning systems.
     </p>
 </div>
----
-
-
