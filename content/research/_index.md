@@ -1,22 +1,15 @@
 ---
+widget: blank
+headless: false
+
+# ... Put Your Section Options Here (title etc.) ...
 title: Research
-summary: Research activities
-type: landing
+subtitle:
+weight: 10  # section position on page
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
-sections:
-  - block: markdown
-    id: research
-    content:
-      title: Research
-      filters:
-        folders:
-          - research
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
 
 Her research interests are in Artificial Intelligence and span different ares such as 
