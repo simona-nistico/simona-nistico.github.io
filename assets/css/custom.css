@@ -2,7 +2,7 @@
   max-width: 80%; /* Adjust percentage as needed */
 }
 
-article {
+.article {
   background-color: #7607e5;
   padding: 20px;
   border-radius: 8px;
