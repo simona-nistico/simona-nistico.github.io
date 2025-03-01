@@ -3,5 +3,5 @@
 }
 
 .max-w-prose-pages {
-    max-width: 70%;
+    max-width: 70%!important;
 }
