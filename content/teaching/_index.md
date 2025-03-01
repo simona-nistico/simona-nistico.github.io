@@ -6,7 +6,7 @@ title: "Teaching activities"
 active: true
 ---
 
-<div style="text-align: left">
+<div class="max-w-prose-pages" style="text-align: left">
 <div>
 <h2>Thesis supervision</h2>
 During her career, she has co-supervised 12 bachelor theses and 6 master theses about Machine on Machine and Deep learning-related topics.
